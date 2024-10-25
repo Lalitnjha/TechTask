@@ -1,4 +1,11 @@
 # TechTask
+# Programming Language : Python
+# Framework Type : Pytest testing framework
+# Design pattern  : POM
+# Reporting : Allure
+# Automation website : https://www.saucedemo.com/
+
+
 
 ## Project Overview
 **TechTask** is an automation framework designed for testing various components of a web or mobile application. This framework is built using Python and leverages different tools and libraries to create robust, scalable, and maintainable test automation solutions.
