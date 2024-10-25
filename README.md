@@ -32,9 +32,9 @@ You can also customize the test runs by passing additional options. For example,
    pytest tests/
 
 ## Commands to run for Allure reports
-   pytest --alluredir=allure-results
-   allure generate allure-results -o allure-report --clean
-   allure open allure-report
+   1. pytest --alluredir=allure-results
+   2. allure generate allure-results -o allure-report --clean
+   3. allure open allure-report
 
 
 
