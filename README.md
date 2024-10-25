@@ -37,33 +37,6 @@ You can also customize the test runs by passing additional options. For example,
    allure open allure-report
 
 
-## LeanTech/FrameWork Structure
-   LeanTech/
-│
-├── pages/
-│   ├── __init__.py
-│   ├── cart_page.py
-│   ├── checkout_page.py
-│   ├── confirmation_page.py
-│   ├── login_page.py
-│   └── product_page.py
-│
-├── tests/
-│   ├── __init__.py
-│   ├── test_checkout.py
-│   └── test_saucedemo.py
-│
-├── utilities/
-│   ├── __init__.py
-│   ├── assertions.py
-│   ├── common_utilities.py
-│   ├── setup.py
-│   ├── test_data.py
-│   └── conftest.py
-│
-├── requirements.txt
-└── README.md
-
 
 
 
