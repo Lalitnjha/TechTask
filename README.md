@@ -1,9 +1,4 @@
 # TechTask
-# Programming Language : Python
-# Framework Type : Pytest testing framework
-# Design pattern  : POM
-# Reporting : Allure
-# Automation website : https://www.saucedemo.com/
 
 
 
@@ -42,6 +37,13 @@ You can also customize the test runs by passing additional options. For example,
    1. pytest --alluredir=allure-results
    2. allure generate allure-results -o allure-report --clean
    3. allure open allure-report
+
+# Programming Language : Python
+# Framework Type : Pytest testing framework
+# Design pattern  : POM
+# Reporting : Allure
+# Automation website : https://www.saucedemo.com/
+
 
 
 
